@@ -11,7 +11,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-DEFAULT_API_BASE = "https://clv-pre.onrender.com"
+DEFAULT_API_BASE = "https://customerlv-predict.onrender.com/"
 
 # ─────────────────────────────────────────────
 #  GLOBAL CSS
