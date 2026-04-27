@@ -11,7 +11,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-DEFAULT_API_BASE = "http://127.0.0.1:8000"
+DEFAULT_API_BASE = "https://clv-pre.onrender.com"
 
 # ─────────────────────────────────────────────
 #  GLOBAL CSS
